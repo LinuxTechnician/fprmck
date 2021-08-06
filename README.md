@@ -24,7 +24,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 Introduction
 ============
 
-fpmrck is a opem-source tool for permissions monitoring.
+fpmrck is a open-source tool for permissions monitoring.
 
 By this program you can check if permissions had changes during
 runtime of this program.
