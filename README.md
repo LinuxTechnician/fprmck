@@ -1,20 +1,10 @@
 **fprmck**
 ==========
 
-File permission check
-
-======================================================================
-
-fprmck - File Permission Checker v. 1.0
+File Permission Checker v. 1.0
 by Tymon Zagawa
 Thu, Aug 6, 2021 
 
-======================================================================
-
-By this program you can check if permissions had changes during
-runtime of this program.
-
-======================================================================
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -29,17 +19,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-======================================================================
-
-I know that code might be dirty, but it works. In future versions
-some problems will be eliminated.
-
-======================================================================
-
-
-
-
-
 
 
 Introduction
@@ -47,11 +26,15 @@ Introduction
 
 fpmrck is a opem-source tool for permissions monitoring.
 
+By this program you can check if permissions had changes during
+runtime of this program.
 
 fprmck is created  by Tymon Zagawa (LinuxTechnician on Github).
 If you want to contact with me just send me an email on address:
 tymon.zagawa@gmail.com
 
+I know that code might be dirty, but it works. In future versions
+some problems will be eliminated.
 
 
 License
