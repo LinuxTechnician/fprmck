@@ -94,7 +94,7 @@ If you will find a bug just send email on address:
 tymon.zagawa@gmail.com
 
 
-USAGE
+Usage
 =====
 
 If you want to use fprmck you must use option -f and provide path to monitored 
