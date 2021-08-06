@@ -1,4 +1,4 @@
-**fprmck**
+**File Permission Checker - fprmck**
 ==========
 
 File Permission Checker v. 1.0
